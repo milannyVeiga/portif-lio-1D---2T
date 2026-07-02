@@ -1,1 +1,2 @@
 # portif-lio-1D---2T
+Projeto desenvolvido no Colégio Estadual Dr Gastão Vidigal, na turma do 1º ano D. O objetivo deste portifólio é explicar a função de cada código do HTML CSS e JS. AS imagens, áudios 
